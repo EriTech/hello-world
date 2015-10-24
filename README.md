@@ -1,3 +1,3 @@
 ====================================================================
-Make a Hello World App in HTML-CSS-JavaScript - NodeJS - Java - PHP
+Hello World App in HTML-CSS-JavaScript - NodeJS - Java - PHP
 ====================================================================
